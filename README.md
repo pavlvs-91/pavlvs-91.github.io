@@ -4,10 +4,10 @@
 Welcome on my GitHub Page! I'm **Paweł Gleindek**, and I'm currently studing _ICT with Intelligent Systems_ at [AGH University of Science and Technology](https://www.agh.edu.pl/en) in Cracow, but I come from Bielsko-Biała.
 
 ## My short CV
-* 2011-2019 3rd Elementary School in Bielsko-Biała
-* 2019-2023 1st High School in Bielsko-Biała
-* 2023 Matura exams (equivalent to british A-levels)
-* 2023-now AGH University in Cracow
+* **2011-2019** 3rd Elementary School in Bielsko-Biała
+* **2019-2023** 1st High School in Bielsko-Biała
+* **2023** Matura exams (equivalent to british A-levels)
+* **2023-now** AGH University in Cracow
 
 some of my achievements include several high scores in polish math, physics and ICT contests: [Kangur](https://www.kangur-mat.pl/), [Lwiątko](https://lwiatko.org/) and [Bóbr](https://www.bobr.edu.pl/).
 
